@@ -1,0 +1,7 @@
+data/*
+**/__pycache__
+results
+.vscode
+!**/.gitkeep
+!data/*_split.txt
+**/.DS_Store
